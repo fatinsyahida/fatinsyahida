@@ -45,6 +45,7 @@ Always exploring new tools and ways to write cleaner, better-performing apps. ðŸ
 <p align="center">
   <a href="mailto:fatinsyahida00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fatin-syahida-saharudin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://fatinsyahida.github.io/portfolio/#/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
