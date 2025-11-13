@@ -10,8 +10,8 @@
 
 ### 💫 About Me  
 <p align="center">
-I’m a passionate software developer who loves building elegant, user-focused, and scalable applications.\n
-My journey blends creativity and logic — I enjoy turning ideas into code that makes life simpler and smarter.\n
+I’m a passionate software developer who loves building elegant, user-focused, and scalable applications.
+My journey blends creativity and logic — I enjoy turning ideas into code that makes life simpler and smarter.
 Always exploring new tools and ways to write cleaner, better-performing apps. 🚀  
 </p>
 
