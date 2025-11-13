@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#ff79c6;">Fatin Syahida</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff79c6;">Fatin Syahida!</span></h1>
 
 <p align="center">
   💻 Software Developer | 🌱 Lifelong Learner | 🧩 Problem Solver
